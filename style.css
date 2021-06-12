@@ -12,4 +12,9 @@ h2,
 h3,
 footer {
     color: #80be01;
+    font-family: 'Pangolin', cursive;
+}
+
+html {
+    scroll-behavior: smooth;
 }
